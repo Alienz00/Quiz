@@ -1,0 +1,82 @@
+[
+    {
+        "klausimas": "Kiek kiaulė turi dantų?",
+        "atsakymai": ["1. 6", "2. visus", "3. neturi kiaulės"]
+    },
+    {
+        "klausimas": "Kokia komanda 2024 laimėjo Formulės 1 čempionatą?",
+        "atsakymai": ["1. Tūrbo", "2. McLaren", "3. Mercedes"]
+    },
+    {
+        "klausimas": "Koks baisiausias miško žvėris?",
+        "atsakymai": ["1. Stefanija nedagėrus", "2. Kurmis", "3. Arklys"]
+    },
+    {
+        "klausimas": "Kuris iš jų durnas?",
+        "atsakymai": ["1. Mamontovas", "2. Grybauskaitė", "3. Putinas"]
+    },
+    {
+        "klausimas": "Kas sunkesnis?",
+        "atsakymai": ["1. Ameba", "2. Žirafa", "3. Varlės"]
+    },
+    {
+        "klausimas": "Kas lengvesnis?",
+        "atsakymai": ["1. Ameba", "2. Žirafa", "3. Varlės"]
+    },
+    {
+        "klausimas": "Koks didžiausias skaičius?",
+        "atsakymai": ["1. Dachuja", "2. Tūkstantis", "3. Šešiolika"]
+    },
+    {
+        "klausimas": "Gitano pavardė?",
+        "atsakymai": ["1. Mėsėda", "2. Neėda", "3. Nausėda"]
+    },
+    {
+        "klausimas": "Kur vėžiai žiemoja?",
+        "atsakymai": ["1. Miške", "2. Po ledu", "3. Amerikoj"]
+    },
+    {
+        "klausimas": "Koks atstumas nuo Vilniaus iki Kauno?",
+        "atsakymai": ["1. Dachuja", "2. Stolnikas", "3. Nėra kelio"]
+    },
+    {
+        "klausimas": "Kur leidžiasi Saulė?",
+        "atsakymai": ["1. Žemė plokščia, ji nesileidžia", "2. Kaune", "3. Vakaruose"]
+    },
+    {
+        "klausimas": "Kur leidžiasi Mėnulis?",
+        "atsakymai": ["1. Kaune", "2. Nesileidžia", "3. Vakaruose"]
+    },
+    {
+        "klausimas": "Kas yra Kaunas?",
+        "atsakymai": ["1. Laikinoji sostinė", "2. Kaimas", "3. Nėra Kauno"]
+    },
+    {
+        "klausimas": "Kas yra laikinoji sostinė?",
+        "atsakymai": ["1. Bezdonys", "2. Kaunas", "3. Kas tokio?"]
+    },
+    {
+        "klausimas": "Kiek turime pajūrio Lietuvoje?",
+        "atsakymai": ["1. Apie 100km", "2. Dachuja", "3. Mažiausiai 5000Km"]
+    },
+    {
+        "klausimas": "Kodėl Putinas toks durnas?",
+        "atsakymai": ["1. Jį jaunystėje visi skriaudė", "2. Traumuotas nuo gimimo", "3. Tinka abu variantai"]
+    },
+    {
+        "klausimas": "Kas Lietuvos sostinė?",
+        "atsakymai": ["1. Vilnius", "2. Klaipėda", "3. Balbieriškis"]
+    },
+    {
+        "klausimas": "Kokios spalvos yra Saulė?",
+        "atsakymai": ["1. Geltonos", "2. Juodos", "3. Landzbergis"]
+    },
+    {
+        "klausimas": "Kur Landzbergislaiko kolūkių šiferį?",
+        "atsakymai": ["1. Garaže", "2. Pas Grybauskaitę garaže", "3. Kam jam tas šiferis"]
+    },
+    {
+        "klausimas": "Kas parašė Lietuvos himną?",
+        "atsakymai": ["1. Vytautas Didysis", "2. Vincas Kudirka", "3. Vyktąrąs Ucpackikas"]
+    }
+]
