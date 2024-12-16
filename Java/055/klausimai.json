@@ -1,82 +1,162 @@
 [
     {
         "klausimas": "Kiek kiaulė turi dantų?",
-        "atsakymai": ["1. 6", "2. visus", "3. neturi kiaulės"]
+        "atsakymai": [
+            {"tekstas": "1. 6", "varlė": false},
+            {"tekstas": "2. visus", "varlė": true},
+            {"tekstas": "3. neturi kiaulės", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kokia komanda 2024 laimėjo Formulės 1 čempionatą?",
-        "atsakymai": ["1. Tūrbo", "2. McLaren", "3. Mercedes"]
+        "atsakymai": [
+            {"tekstas": "1. Tūrbo", "varlė": false},
+            {"tekstas": "2. McLaren", "varlė": true},
+            {"tekstas": "3. Mercedes", "varlė": false}
+        ]
     },
     {
         "klausimas": "Koks baisiausias miško žvėris?",
-        "atsakymai": ["1. Stefanija nedagėrus", "2. Kurmis", "3. Arklys"]
+        "atsakymai": [
+            {"tekstas": "1. Stefanija nedagėrus", "varlė": true},
+            {"tekstas": "2. Kurmis", "varlė": false},
+            {"tekstas": "3. Arklys", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kuris iš jų durnas?",
-        "atsakymai": ["1. Mamontovas", "2. Grybauskaitė", "3. Putinas"]
+        "atsakymai": [
+            {"tekstas": "1. Mamontovas", "varlė": false},
+            {"tekstas": "2. Grybauskaitė", "varlė": false},
+            {"tekstas": "3. Putinas", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kas sunkesnis?",
-        "atsakymai": ["1. Ameba", "2. Žirafa", "3. Varlės"]
+        "atsakymai": [
+            {"tekstas": "1. Ameba", "varlė": false},
+            {"tekstas": "2. Žirafa", "varlė": false},
+            {"tekstas": "3. Varlės", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kas lengvesnis?",
-        "atsakymai": ["1. Ameba", "2. Žirafa", "3. Varlės"]
+        "atsakymai": [
+            {"tekstas": "1. Ameba", "varlė": false},
+            {"tekstas": "2. Žirafa", "varlė": false},
+            {"tekstas": "3. Varlės", "varlė": true
+        ]
     },
     {
         "klausimas": "Koks didžiausias skaičius?",
-        "atsakymai": ["1. Dachuja", "2. Tūkstantis", "3. Šešiolika"]
+        "atsakymai": [
+            {"tekstas": "1. Dachuja", "varlė": true},
+            {"tekstas": "2. Tūkstantis", "varlė": false},
+            {"tekstas": "3. Šešiolika", "varlė": false}
+        ]
     },
     {
         "klausimas": "Gitano pavardė?",
-        "atsakymai": ["1. Mėsėda", "2. Neėda", "3. Nausėda"]
+        "atsakymai": [
+            {"tekstas": "1. Mėsėda", "varlė": false},
+            {"tekstas": "2. Neėda", "varlė": false},
+            {"tekstas": "3. Nausėda", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kur vėžiai žiemoja?",
-        "atsakymai": ["1. Miške", "2. Po ledu", "3. Amerikoj"]
+        "atsakymai": [
+            {"tekstas": "1. Miške", "varlė": false},
+            {"tekstas": "2. Po ledu", "varlė": true},
+            {"tekstas": "3. Amerikoj", "varlė": false}
+        ]
     },
     {
         "klausimas": "Koks atstumas nuo Vilniaus iki Kauno?",
-        "atsakymai": ["1. Dachuja", "2. Stolnikas", "3. Nėra kelio"]
+        "atsakymai": [
+            {"tekstas": "1. Dachuja", "varlė": false},
+            {"tekstas": "2. Stolnikas", "varlė": true},
+            {"tekstas": "3. Nėra kelio", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kur leidžiasi Saulė?",
-        "atsakymai": ["1. Žemė plokščia, ji nesileidžia", "2. Kaune", "3. Vakaruose"]
+        "atsakymai": [
+            {"tekstas": "1. Žemė plokščia, ji nesileidžia", "varlė": false},
+            {"tekstas": "2. Kaune", "varlė": false},
+            {"tekstas": "3. Vakaruose", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kur leidžiasi Mėnulis?",
-        "atsakymai": ["1. Kaune", "2. Nesileidžia", "3. Vakaruose"]
+        "atsakymai": [
+            {"tekstas": "1. Kaune", "varlė": false},
+            {"tekstas": "2. Nesileidžia", "varlė": false},
+            {"tekstas": "3. Vakaruose", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kas yra Kaunas?",
-        "atsakymai": ["1. Laikinoji sostinė", "2. Kaimas", "3. Nėra Kauno"]
+        "atsakymai": [
+            {"tekstas": "1. Laikinoji sostinė", "varlė": true},
+            {"tekstas": "2. Kaimas", "varlė": false},
+            {"tekstas": "3. Nėra Kauno", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kas yra laikinoji sostinė?",
-        "atsakymai": ["1. Bezdonys", "2. Kaunas", "3. Kas tokio?"]
+        "atsakymai": [
+            {"tekstas": "1. Bezdonys", "varlė": false},
+            {"tekstas": "2. Kaunas", "varlė": true},
+            {"tekstas": "3. Kas tokio?", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kiek turime pajūrio Lietuvoje?",
-        "atsakymai": ["1. Apie 100km", "2. Dachuja", "3. Mažiausiai 5000Km"]
+        "atsakymai": [
+            {"tekstas": "1. Apie 100km", "varlė": true},
+            {"tekstas": "2. Dachuja", "varlė": false},
+            {"tekstas": "3. Mažiausiai 5000Km", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kodėl Putinas toks durnas?",
-        "atsakymai": ["1. Jį jaunystėje visi skriaudė", "2. Traumuotas nuo gimimo", "3. Tinka abu variantai"]
+        "atsakymai": [
+            {"tekstas": "1. Jį jaunystėje visi skriaudė", "varlė": false},
+            {"tekstas": "2. Traumuotas nuo gimimo", "varlė": false},
+            {"tekstas": "3. Tinka abu variantai", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kas Lietuvos sostinė?",
-        "atsakymai": ["1. Vilnius", "2. Klaipėda", "3. Balbieriškis"]
+        "atsakymai": [
+            {"tekstas": "1. Vilnius", "varlė": true},
+            {"tekstas": "2. Klaipėda", "varlė": false},
+            {"tekstas": "3. Balbieriškis", "varlė": false}
+        ]
     },
     {
         "klausimas": "Kokios spalvos yra Saulė?",
-        "atsakymai": ["1. Geltonos", "2. Juodos", "3. Landzbergis"]
+        "atsakymai": [
+            {"tekstas": "1. Geltonos", "varlė": true},
+            {"tekstas": "2. Juodos", "varlė": false},
+            {"tekstas": "3. Landzbergis", "varlė": false}
+        ]
     },
     {
-        "klausimas": "Kur Landzbergislaiko kolūkių šiferį?",
-        "atsakymai": ["1. Garaže", "2. Pas Grybauskaitę garaže", "3. Kam jam tas šiferis"]
+        "klausimas": "Kur Landzbergis laiko kolūkių šiferį?",
+        "atsakymai": [
+            {"tekstas": "1. Garaže", "varlė": false},
+            {"tekstas": "2. Grybauskaitės garaže", "varlė": false},
+            {"tekstas": "3. Kam jam tas šiferis", "varlė": true}
+        ]
     },
     {
         "klausimas": "Kas parašė Lietuvos himną?",
-        "atsakymai": ["1. Vytautas Didysis", "2. Vincas Kudirka", "3. Vyktąrąs Ucpackikas"]
+        "atsakymai": [
+            {"tekstas": "1. Vytautas Didysis", "varlė": false},
+            {"tekstas": "2. Vincas Kudirka", "varlė": true},
+            {"tekstas": "3. Vyktąrąs Ucpackikas", "varlė": false}
+        ]
     }
 ]
