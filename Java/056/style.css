@@ -1,0 +1,56 @@
+body {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    width: 1440px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.zomentum {
+    width: 202px;
+    height: 28px;
+    padding-top: 30px;
+    padding-left: 81px;
+}
+
+.navig {}
+
+.navli {
+
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    font-style: normal;
+    padding-top: 18px;
+
+}
+
+.navli a {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.zalia {
+    width: 90px;
+    height: 20px;
+    color: #2F70FE;
+    border: 1px solid #2F70FE;
+    padding: 12px 23px 12px 23px;
+}
+
+.melyna {
+    width: 1440px;
+    height: 565px;
+    background-color: #2F70FE;
+}
