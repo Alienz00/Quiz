@@ -2,6 +2,7 @@ body {
     margin: 0 auto;
     justify-content: center;
     align-items: center;
+    font-family: 'Segoe UI', sans-serif;
 }
 
 nav {
@@ -17,12 +18,11 @@ nav {
     height: 28px;
     padding-top: 30px;
     padding-left: 81px;
+
 }
 
-.navig {}
-
 .navli {
-
+    margin-right: 129px;
     list-style: none;
     display: flex;
     gap: 32px;
@@ -30,27 +30,108 @@ nav {
     padding-top: 18px;
 
 }
-
+                                
 .navli a {
-    font-family: 'Segoe UI', sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-}
-
-a {
     text-decoration: none;
+    font-weight: 500;
+        font-size: 14px;
+        color: #000C2D;
 }
 
 .zalia {
     width: 90px;
     height: 20px;
-    color: #2F70FE;
+    font-size: 16px;
     border: 1px solid #2F70FE;
     padding: 12px 23px 12px 23px;
 }
+
 
 .melyna {
     width: 1440px;
     height: 565px;
     background-color: #2F70FE;
+    position: relative;
+    }
+    
+    .melPirmas,
+    .melAntras,
+    .melTrecias {
+        position: absolute;
+    }
+    
+    .melPirmas img {
+        height: 255px;
+        width: 390px;
+        margin-top: 320px;
+        margin-left: 98px;
+        filter: saturate(00%);
+        opacity: 80%;
+    }
+    
+    .melAntras img {
+        width: 340px;
+        height: 261px;
+        margin-top: 227px;
+        margin-left: 972px;
+        filter: grayscale(100%) contrast(1.5);
+        opacity: 60%;
+    }
+    
+    .melTrecias {
+        position: fixed;
+        width: 789px;
+        height: 282px;
+        margin-top: 114px;
+        margin-left: 410px;
+        gap: 33px;
+    
+    }
+    
+    .trecTxt {
+        object-fit: fill;
+    
+        width: 789px;
+        height: 197;
+    
+    }
+    
+    .trech1 {
+        width: 620px;
+        height: 130px;
+    }
+    
+    h1 {
+        font-size: 48px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 65px;
+        color: #ffffff;
+    }
+    
+    .trech4 {
+        width: 605px;
+        height: 60px;
+    }
+    
+    h4 {
+        color: #ffffff;
+        font-size: 16px;
+        text-align: center;
+        font-weight: 400;
+    }
+    
+    .melTrecias button {
+        width: 162px;
+        height: 52px;
+        padding: 16px 25px 16px 25px;
+        gap: 10px;
+        background: #000000;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 20px;
+        letter-spacing: 2%;
+        text-align: center;
+        margin-left: 250px;
 }
