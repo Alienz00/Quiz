@@ -166,3 +166,41 @@ h2 {
     width: 100px;
     height: 100px;
 }
+.pagrindinis {
+    width: 1440px;
+    display: grid;
+    grid-template-columns: 155px 1fr 1fr 255px;
+    gap: 130px;
+    margin-top: 110px;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 37px;
+    font-weight: 700;
+    color: #181818;
+}
+
+h5 {
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+    letter-spacing: 1%;
+    color: #000C2D;
+}
+
+.pagrindinis div:nth-child(odd) {
+    grid-column: 2;
+}
+
+.pagrindinis div:nth-child(even) {
+    grid-column: 3;
+}
+
+.pagrindinis a {
+    color: #2F70FE;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1px;
+}
