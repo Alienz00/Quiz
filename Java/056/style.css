@@ -43,6 +43,7 @@ nav {
     height: 20px;
     font-size: 16px;
     border: 1px solid #2F70FE;
+    color: #2F70FE;
     padding: 12px 23px 12px 23px;
 }
 
@@ -90,7 +91,6 @@ nav {
     
     .trecTxt {
         object-fit: fill;
-    
         width: 789px;
         height: 197;
     
@@ -114,13 +114,6 @@ nav {
         height: 60px;
     }
     
-    h4 {
-        color: #ffffff;
-        font-size: 16px;
-        text-align: center;
-        font-weight: 400;
-    }
-    
     .melTrecias button {
         width: 162px;
         height: 52px;
@@ -134,4 +127,42 @@ nav {
         letter-spacing: 2%;
         text-align: center;
         margin-left: 250px;
+}
+.trech4 h4 {
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.listSellGrow {
+    width: 1440px;
+    height: 465px;
+    padding-top: 48px;
+    background: #00FF8514;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    line-height: 51px;
+    letter-spacing: 2%;
+    font-weight: 500;
+    color: #000000;
+}
+
+.pasiulymai {
+    display: flex;
+    justify-content: space-around;
+    width: 824px;
+    height: 178px;
+    margin-left: 308px;
+    gap: 56px;
+    margin-right: 308px;
+    text-align: center;
+}
+
+.pasiulymai img {
+    width: 100px;
+    height: 100px;
 }
